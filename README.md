@@ -88,4 +88,4 @@ Currently finishing my Software Engineering degree while shipping real projects.
 ---
 
 ⭐ If you like my work, consider starring a repository
-🤝 Open to collaborations, internships and cool ideas
+🤝 Open to collaborations and cool ideas
