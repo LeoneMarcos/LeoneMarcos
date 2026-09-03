@@ -1,7 +1,3 @@
-Software developer and Software Engineering undergraduate focused on modern web applications.
-
----
-
 ## Tech Stack
 
 ### Core
