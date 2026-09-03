@@ -24,36 +24,43 @@
 
 ## Projects
 
-### [Pharivo](https://github.com/LeoneMarcos/Pharivo)
+### [Medication Inventory](https://github.com/LeoneMarcos/medication-inventory)
 
-A responsive medication inventory application for stock control, expiration tracking, search and inventory status monitoring.
+A responsive medication inventory application for stock control, expiration tracking, search, and inventory status monitoring.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-informational?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-informational?style=flat-square&logo=vite" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-informational?style=flat-square&logo=tailwindcss" alt="Tailwind CSS" />
+  <a href="https://inventory.leonemarcos.com/">
+    <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/LeoneMarcos/medication-inventory/actions/workflows/ci.yml">
+    <img src="https://github.com/LeoneMarcos/medication-inventory/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI" />
+  </a>
+  <img src="https://img.shields.io/badge/React-19-informational?style=flat-square&logo=react" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-5.9-informational?style=flat-square&logo=typescript" alt="TypeScript 5.9" />
+  <img src="https://img.shields.io/badge/Vite-7-informational?style=flat-square&logo=vite" alt="Vite 7" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-3.4-informational?style=flat-square&logo=tailwindcss" alt="Tailwind CSS 3.4" />
 </p>
 
-### [Brievox](https://github.com/LeoneMarcos/Brievox)
+### [AI News Aggregator](https://github.com/LeoneMarcos/AI-News-Aggregator)
 
 A focused AI news aggregator that combines selected RSS sources into a clean, filterable daily feed.
 
 <p align="left">
-  <a href="https://brievox.leonemarcos.com">
+  <a href="https://ainews.leonemarcos.com">
     <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square" alt="Live Demo" />
   </a>
-  <a href="https://github.com/LeoneMarcos/Brievox/actions/workflows/ci.yml">
-    <img src="https://github.com/LeoneMarcos/Brievox/actions/workflows/ci.yml/badge.svg" alt="CI" />
+  <a href="https://github.com/LeoneMarcos/AI-News-Aggregator/actions/workflows/ci.yml">
+    <img src="https://github.com/LeoneMarcos/AI-News-Aggregator/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI" />
   </a>
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-informational?style=flat-square" alt="JavaScript ES6+" />
-  <img src="https://img.shields.io/badge/Vite-6-informational?style=flat-square" alt="Vite 6" />
-  <img src="https://img.shields.io/badge/Vitest-4-informational?style=flat-square" alt="Vitest 4" />
+  <img src="https://img.shields.io/badge/React-19-informational?style=flat-square&logo=react" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-strict-informational?style=flat-square&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-6-informational?style=flat-square&logo=vite" alt="Vite 6" />
+  <img src="https://img.shields.io/badge/Vitest-4-informational?style=flat-square&logo=vitest" alt="Vitest 4" />
 </p>
 
 ### [VelJack](https://github.com/LeoneMarcos/Veljack)
 
-A browser-based 21 card game with local multiplayer, an automated opponent, responsive UI, automated tests and continuous integration.
+A browser-based 21 card game with local multiplayer, an automated opponent, responsive UI, automated tests, and continuous integration.
 
 <p align="left">
   <a href="https://veljack.leonemarcos.com/">
@@ -62,6 +69,7 @@ A browser-based 21 card game with local multiplayer, an automated opponent, resp
   <a href="https://github.com/LeoneMarcos/Veljack/actions/workflows/ci.yml">
     <img src="https://github.com/LeoneMarcos/Veljack/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI" />
   </a>
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-informational?style=flat-square" alt="JavaScript ES6+" />
-  <img src="https://img.shields.io/badge/Vite-7.3.6-informational?style=flat-square" alt="Vite 7.3.6" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-informational?style=flat-square&logo=javascript" alt="JavaScript ES6+" />
+  <img src="https://img.shields.io/badge/Vite-7.3.6-informational?style=flat-square&logo=vite" alt="Vite 7.3.6" />
+  <img src="https://img.shields.io/badge/Vitest-Testing-informational?style=flat-square&logo=vitest" alt="Vitest" />
 </p>
