@@ -58,18 +58,20 @@ A focused AI news aggregator that combines selected RSS sources into a clean, fi
   <img src="https://img.shields.io/badge/Vitest-4-informational?style=flat-square&logo=vitest" alt="Vitest 4" />
 </p>
 
-### [VelJack](https://github.com/LeoneMarcos/Veljack)
+### [Blackjack](https://github.com/LeoneMarcos/blackjack)
 
-A browser-based 21 card game with local multiplayer, an automated opponent, responsive UI, automated tests, and continuous integration.
+A polished, browser-based 21 card game with local multiplayer and an optional automated opponent.
 
 <p align="left">
-  <a href="https://veljack.leonemarcos.com/">
+  <a href="https://blackjack.leonemarcos.com/">
     <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square" alt="Live Demo" />
   </a>
-  <a href="https://github.com/LeoneMarcos/Veljack/actions/workflows/ci.yml">
-    <img src="https://github.com/LeoneMarcos/Veljack/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI" />
+  <a href="https://github.com/LeoneMarcos/blackjack/actions/workflows/ci.yml">
+    <img src="https://github.com/LeoneMarcos/blackjack/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI" />
   </a>
-  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-informational?style=flat-square&logo=javascript" alt="JavaScript ES6+" />
-  <img src="https://img.shields.io/badge/Vite-7.3.6-informational?style=flat-square&logo=vite" alt="Vite 7.3.6" />
-  <img src="https://img.shields.io/badge/Vitest-Testing-informational?style=flat-square&logo=vitest" alt="Vitest" />
+  <img src="https://img.shields.io/badge/React-19-informational?style=flat-square&logo=react" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-5.9-informational?style=flat-square&logo=typescript" alt="TypeScript 5.9" />
+  <img src="https://img.shields.io/badge/Vite-7-informational?style=flat-square&logo=vite" alt="Vite 7" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-4-informational?style=flat-square&logo=tailwindcss" alt="Tailwind CSS 4" />
+  <img src="https://img.shields.io/badge/Vitest-3-informational?style=flat-square&logo=vitest" alt="Vitest 3" />
 </p>
