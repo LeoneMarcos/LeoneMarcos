@@ -1,3 +1,16 @@
+## Links
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/leone-marcos-50b21719a">
+    <img src="https://img.shields.io/badge/LinkedIn-Leone%20Marcos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leonemarcos.com">
+    <img src="https://img.shields.io/badge/Website-leonemarcos.com-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Personal Website" />
+  </a>
+</p>
+
+---
+
 ## Tech Stack
 
 ### Frontend
