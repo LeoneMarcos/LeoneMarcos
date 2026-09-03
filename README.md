@@ -1,32 +1,3 @@
-<h1 align="center">Leone Marcos</h1>
-
-<p align="center">
-  <strong>Full Stack Developer · Software Engineering Undergraduate</strong>
-</p>
-
-<p align="center">
-  Building web, desktop, and Android applications with a focus on clear interfaces, reliable software, and maintainable code.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/leone-marcos-50b21719a">
-    <img src="https://img.shields.io/badge/LinkedIn-Leone%20Marcos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/LeoneMarcos">
-    <img src="https://img.shields.io/badge/GitHub-LeoneMarcos-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-## About
-
-I am a software developer and Software Engineering undergraduate with hands-on experience building web, desktop, and Android applications.
-
-My work is centered on **React, TypeScript, Supabase, and Python**, with practical experience using **Firebase** and **Cloudflare**. I have worked with authentication, data persistence, responsive interfaces, automated testing, CI workflows, cloud deployment, and AI API integrations across different projects.
-
-I focus on turning ideas into functional applications, from solution design and implementation to testing, refinement, and delivery.
-
 ## Tech Stack
 
 ### Frontend
@@ -105,13 +76,3 @@ A browser-based 21 card game with local multiplayer, an optional automated oppon
   <img src="https://img.shields.io/badge/JavaScript-ES6%2B-informational?style=flat-square" alt="JavaScript ES6+" />
   <img src="https://img.shields.io/badge/Vite-7.3.6-informational?style=flat-square" alt="Vite 7.3.6" />
 </p>
-
----
-
-## Engineering Focus
-
-- Building responsive and accessible user interfaces.
-- Designing maintainable application structure and clear data flows.
-- Integrating authentication, persistence, APIs, and cloud services.
-- Using automated tests and CI to validate changes before delivery.
-- Developing practical software across web, desktop, and Android environments.
