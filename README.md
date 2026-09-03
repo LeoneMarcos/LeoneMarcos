@@ -23,11 +23,13 @@
 ### Android
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Android-Native-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=white" alt="Android Native" />
-  <img src="https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?style=flat-square&amp;logo=jetpackcompose&amp;logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Java-Native-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Gradle-Build-02303A?style=flat-square&amp;logo=gradle&amp;logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google ML Kit" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 ### Quality & Delivery
