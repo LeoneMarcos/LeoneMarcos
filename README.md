@@ -1,68 +1,55 @@
-## Tech Stack
+# Leone Marcos
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+**Software Engineer** focused on building responsive, resilient web applications with **React** and **TypeScript**.
+
+[Portfolio](https://leonemarcos.com/) · [LinkedIn](https://www.linkedin.com/in/leone-marcos) · [Email](mailto:contact@leonemarcos.com)
 
 ---
 
-## Projects
+## Featured Projects
 
 ### [Medication Inventory](https://github.com/LeoneMarcos/medication-inventory)
 
-A responsive medication inventory application for stock control, expiration tracking, search, and inventory status monitoring.
+A responsive medication management workspace designed for reliable local stock control, batch expiration tracking, and safe inventory movements.
 
-<p align="left">
-  <a href="https://inventory.leonemarcos.com/">
-    <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/LeoneMarcos/medication-inventory/actions/workflows/ci.yml">
-    <img src="https://github.com/LeoneMarcos/medication-inventory/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI" />
-  </a>
-  <img src="https://img.shields.io/badge/React-19-informational?style=flat-square&logo=react" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-5.9-informational?style=flat-square&logo=typescript" alt="TypeScript 5.9" />
-  <img src="https://img.shields.io/badge/Vite-7-informational?style=flat-square&logo=vite" alt="Vite 7" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-3.4-informational?style=flat-square&logo=tailwindcss" alt="Tailwind CSS 3.4" />
-</p>
+![Medication Inventory Preview](./assets/medication-inventory.png)
+
+- **Problem:** Track medication batches, expiration dates, and stock levels in a lightweight browser workspace.
+- **Engineering:** Built with React 19, TypeScript, and Tailwind CSS. Features atomic storage updates with quota-exceeded recovery, strict ISO date validation, and responsive desktop/mobile data tables.
+- **Demo:** [inventory.leonemarcos.com](https://inventory.leonemarcos.com/)
+- **Code:** [github.com/LeoneMarcos/medication-inventory](https://github.com/LeoneMarcos/medication-inventory)
+
+---
 
 ### [AI News Aggregator](https://github.com/LeoneMarcos/AI-News-Aggregator)
 
-A focused AI news aggregator that combines selected RSS sources into a clean, filterable daily feed.
+A focused artificial intelligence news reader that aggregates curated RSS sources into a unified, distraction-free daily feed.
 
-<p align="left">
-  <a href="https://ainews.leonemarcos.com">
-    <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/LeoneMarcos/AI-News-Aggregator/actions/workflows/ci.yml">
-    <img src="https://github.com/LeoneMarcos/AI-News-Aggregator/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI" />
-  </a>
-  <img src="https://img.shields.io/badge/React-19-informational?style=flat-square&logo=react" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-strict-informational?style=flat-square&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-6-informational?style=flat-square&logo=vite" alt="Vite 6" />
-  <img src="https://img.shields.io/badge/Vitest-4-informational?style=flat-square&logo=vitest" alt="Vitest 4" />
-</p>
+![AI News Aggregator Preview](./assets/ai-news-aggregator.png)
+
+- **Problem:** Staying current on fast-moving AI developments is cluttered by noisy social feeds and disparate publication formats.
+- **Engineering:** Built with React 19, TypeScript, and Vite. Implements client-side RSS parsing with proxy fallback, instant search with keyboard shortcuts (`Esc` clear), accessible ARIA landmarks, and progressive loading of available sources.
+- **Demo:** [ainews.leonemarcos.com](https://ainews.leonemarcos.com/)
+- **Code:** [github.com/LeoneMarcos/AI-News-Aggregator](https://github.com/LeoneMarcos/AI-News-Aggregator)
+
+---
 
 ### [Blackjack](https://github.com/LeoneMarcos/blackjack)
 
-A polished, browser-based 21 card game with local multiplayer and an optional automated opponent.
+A browser-based 21 card game featuring an automated dealer opponent, local multiplayer support, and session scoreboards.
 
-<p align="left">
-  <a href="https://blackjack.leonemarcos.com/">
-    <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/LeoneMarcos/blackjack/actions/workflows/ci.yml">
-    <img src="https://github.com/LeoneMarcos/blackjack/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI" />
-  </a>
-  <img src="https://img.shields.io/badge/React-19-informational?style=flat-square&logo=react" alt="React 19" />
-  <img src="https://img.shields.io/badge/TypeScript-5.9-informational?style=flat-square&logo=typescript" alt="TypeScript 5.9" />
-  <img src="https://img.shields.io/badge/Vite-7-informational?style=flat-square&logo=vite" alt="Vite 7" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-4-informational?style=flat-square&logo=tailwindcss" alt="Tailwind CSS 4" />
-  <img src="https://img.shields.io/badge/Vitest-3-informational?style=flat-square&logo=vitest" alt="Vitest 3" />
-</p>
+![Blackjack Preview](./assets/blackjack.png)
+
+- **Problem:** Delivering an authentic, smooth card-table experience in the browser with clear state transitions, accessible interaction, and predictable game logic.
+- **Engineering:** Built with React 19, TypeScript, Tailwind CSS, and Vitest. Features shuffled decks, tested scoring helpers, and an optional computer opponent, animated card reveals, and responsive layout across devices.
+- **Demo:** [blackjack.leonemarcos.com](https://blackjack.leonemarcos.com/)
+- **Code:** [github.com/LeoneMarcos/blackjack](https://github.com/LeoneMarcos/blackjack)
+
+---
+
+## Core Technologies
+
+- **Languages & Frameworks:** TypeScript, JavaScript, React 19, Vite
+- **Styling & Design Systems:** Tailwind CSS, Responsive & Accessible UI
+- **Testing & Quality:** Vitest, Playwright, ESLint, Prettier
+- **Cloud & Deployment:** Cloudflare Pages/Workers, GitHub Actions
