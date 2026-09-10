@@ -13,6 +13,7 @@
 ### [Medication Inventory](https://github.com/LeoneMarcos/medication-inventory)
 
 [![Demo](https://img.shields.io/badge/Demo-Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://inventory.leonemarcos.com/)
+[![Showcase](https://img.shields.io/badge/Showcase-Watch-4B5563?style=flat-square)](https://raw.githubusercontent.com/LeoneMarcos/medication-inventory/main/showcase-assets/medication-inventory-showcase.mp4)
 
 A responsive medication management workspace designed for reliable local stock control, batch expiration tracking, and safe inventory movements.
 
@@ -26,6 +27,7 @@ A responsive medication management workspace designed for reliable local stock c
 ### [AI News Aggregator](https://github.com/LeoneMarcos/AI-News-Aggregator)
 
 [![Demo](https://img.shields.io/badge/Demo-Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://ainews.leonemarcos.com/)
+[![Showcase](https://img.shields.io/badge/Showcase-Watch-4B5563?style=flat-square)](https://raw.githubusercontent.com/LeoneMarcos/AI-News-Aggregator/main/showcase-assets/ai-news-aggregator-showcase.mp4)
 
 A focused artificial intelligence news reader that aggregates curated RSS sources into a unified, distraction-free daily feed.
 
@@ -39,6 +41,7 @@ A focused artificial intelligence news reader that aggregates curated RSS source
 ### [Blackjack](https://github.com/LeoneMarcos/blackjack)
 
 [![Demo](https://img.shields.io/badge/Demo-Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://blackjack.leonemarcos.com/)
+[![Showcase](https://img.shields.io/badge/Showcase-Watch-4B5563?style=flat-square)](https://raw.githubusercontent.com/LeoneMarcos/blackjack/main/showcase-assets/blackjack-showcase.mp4)
 
 A browser-based 21 card game featuring an automated dealer opponent, local multiplayer support, and session scoreboards.
 
