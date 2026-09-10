@@ -17,7 +17,7 @@
 
 A responsive medication management workspace designed for reliable local stock control, batch expiration tracking, and safe inventory movements.
 
-![Medication Inventory Preview](./assets/medication-inventory.png)
+![Medication Inventory Preview](https://raw.githubusercontent.com/LeoneMarcos/medication-inventory/main/showcase-assets/screenshots/hero-desktop.png)
 
 - **Problem:** Track medication batches, expiration dates, and stock levels in a lightweight browser workspace.
 - **Engineering:** Built with React 19, TypeScript, and Tailwind CSS. Features atomic storage updates with quota-exceeded recovery, strict ISO date validation, and responsive desktop/mobile data tables.
