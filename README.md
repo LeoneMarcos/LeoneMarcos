@@ -57,4 +57,4 @@ A browser-based 21 card game featuring an automated dealer opponent, local multi
 - **Languages & Frameworks:** TypeScript, JavaScript, React 19, Vite
 - **Styling & Design Systems:** Tailwind CSS, Responsive & Accessible UI
 - **Testing & Quality:** Vitest, Playwright, ESLint, Prettier
-- **Cloud & Deployment:** Cloudflare Pages/Workers, GitHub Actions
+- **Containers & Delivery:** Docker, Docker Compose, Nginx, Cloudflare Pages/Workers, GitHub Actions
