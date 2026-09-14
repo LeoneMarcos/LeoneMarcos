@@ -45,7 +45,7 @@ A focused artificial intelligence news reader that aggregates curated RSS source
 
 A browser-based 21 card game featuring an automated dealer opponent, local multiplayer support, and session scoreboards.
 
-![Blackjack Preview](./assets/blackjack.png)
+![Blackjack Preview](https://raw.githubusercontent.com/LeoneMarcos/blackjack/main/showcase-assets/screenshots/blackjack-online-cards.png)
 
 - **Problem:** Delivering an authentic, smooth card-table experience in the browser with clear state transitions, accessible interaction, and predictable game logic.
 - **Engineering:** Built with React 19, TypeScript, Tailwind CSS, and Vitest. Features shuffled decks, tested scoring helpers, and an optional computer opponent, animated card reveals, and responsive layout across devices.
