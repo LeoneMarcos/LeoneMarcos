@@ -8,47 +8,16 @@
 
 ---
 
-## Featured Projects
+## Featured Project
 
-### [Medication Inventory](https://github.com/LeoneMarcos/medication-inventory)
+### [AI News](https://ainews.leonemarcos.com/)
 
-[![Demo](https://img.shields.io/badge/Demo-Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://inventory.leonemarcos.com/)
-[![Showcase](https://img.shields.io/badge/Showcase-Watch-4B5563?style=flat-square)](https://raw.githubusercontent.com/LeoneMarcos/medication-inventory/main/showcase-assets/medication-inventory-showcase.mp4)
+An interactive demo that turns questions about AI news into clear answers grounded in recent reporting, with citations you can explore.
 
-A responsive medication management workspace designed for reliable local stock control, batch expiration tracking, and safe inventory movements.
+https://github.com/user-attachments/assets/ca5f58e4-0f60-489c-99ab-d9ca6660c26e
 
-![Medication Inventory Preview](https://raw.githubusercontent.com/LeoneMarcos/medication-inventory/main/showcase-assets/screenshots/hero-desktop.png)
-
-- **Problem:** Track medication batches, expiration dates, and stock levels in a lightweight browser workspace.
-- **Engineering:** Built with React 19, TypeScript, and Tailwind CSS. Features atomic storage updates with quota-exceeded recovery, strict ISO date validation, and responsive desktop/mobile data tables.
-
----
-
-### [AI News Aggregator](https://github.com/LeoneMarcos/AI-News-Aggregator)
-
-[![Demo](https://img.shields.io/badge/Demo-Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://ainews.leonemarcos.com/)
-[![Showcase](https://img.shields.io/badge/Showcase-Watch-4B5563?style=flat-square)](https://raw.githubusercontent.com/LeoneMarcos/AI-News-Aggregator/main/showcase-assets/ai-news-aggregator-showcase.mp4)
-
-A focused artificial intelligence news reader that aggregates curated RSS sources into a unified, distraction-free daily feed.
-
-![AI News Aggregator Preview](./assets/ai-news-aggregator.png)
-
-- **Problem:** Staying current on fast-moving AI developments is cluttered by noisy social feeds and disparate publication formats.
-- **Engineering:** Built with React 19, TypeScript, and Vite. Implements client-side RSS parsing with proxy fallback, instant search with keyboard shortcuts (`Esc` clear), accessible ARIA landmarks, and progressive loading of available sources.
-
----
-
-### [Blackjack](https://github.com/LeoneMarcos/blackjack)
-
-[![Demo](https://img.shields.io/badge/Demo-Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://blackjack.leonemarcos.com/)
-[![Showcase](https://img.shields.io/badge/Showcase-Watch-4B5563?style=flat-square)](https://raw.githubusercontent.com/LeoneMarcos/blackjack/main/showcase-assets/blackjack-showcase.mp4)
-
-A browser-based 21 card game featuring an automated dealer opponent, local multiplayer support, and session scoreboards.
-
-![Blackjack Preview](https://raw.githubusercontent.com/LeoneMarcos/blackjack/main/showcase-assets/screenshots/blackjack-online-cards.png)
-
-- **Problem:** Delivering an authentic, smooth card-table experience in the browser with clear state transitions, accessible interaction, and predictable game logic.
-- **Engineering:** Built with React 19, TypeScript, Tailwind CSS, and Vitest. Features shuffled decks, tested scoring helpers, and an optional computer opponent, animated card reveals, and responsive layout across devices.
+- **Problem:** Help readers understand fast-moving AI developments without having to piece together coverage across multiple publications.
+- **Engineering:** Built with React 19, TypeScript, Vite, and Cloudflare Workers. Uses Gemini embeddings and Azure AI Search for semantic retrieval, with Groq generating answers and suggested questions. Includes validated source citations, Markdown rendering, English and Portuguese support, responsive layouts, and system-aware light and dark themes.
 
 ---
 
