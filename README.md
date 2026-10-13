@@ -10,14 +10,14 @@
 
 ## Featured Project
 
-### [AI News](https://ainews.leonemarcos.com/)
+### [Empire Eagle Construction](https://empireeagleconstruction.com/)
 
-An interactive demo that turns questions about AI news into clear answers grounded in recent reporting, with citations you can explore.
+A website for a New Jersey home renovation company, built to turn visitors into conversations: real project galleries, client reviews, and a short form that opens WhatsApp with the message already prepared.
 
-https://github.com/user-attachments/assets/ca5f58e4-0f60-489c-99ab-d9ca6660c26e
+https://github.com/user-attachments/assets/4b37db28-1df4-492c-b21b-97d3c3cfc553
 
-- **Problem:** Help readers understand fast-moving AI developments without having to piece together coverage across multiple publications.
-- **Engineering:** Built with React 19, TypeScript, Vite, and Cloudflare Workers. Uses Gemini embeddings and Azure AI Search for semantic retrieval, with Groq generating answers and suggested questions. Includes validated source citations, Markdown rendering, English and Portuguese support, responsive layouts, and system-aware light and dark themes.
+- **Problem:** The company had an outdated site that did not show its real work. It needed a clear presentation and a direct path from a visitor to an estimate request, without accounts or a backend.
+- **Engineering:** Built with React 19, TypeScript, Vite, and Tailwind CSS, delivered on Cloudflare Workers. Includes typed photo galleries by service, client reviews with pause-on-interaction, keyboard-accessible controls, and a privacy-conscious setup with no click tracking or form data collection. Covered by unit and end-to-end tests with Playwright.
 
 ---
 
