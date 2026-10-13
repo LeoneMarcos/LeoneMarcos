@@ -14,7 +14,7 @@
 
 A website for a New Jersey home renovation company, built to turn visitors into conversations: real project galleries, client reviews, and a short form that opens WhatsApp with the message already prepared.
 
-VIDEO_URL
+https://github.com/user-attachments/assets/751b4746-cf69-4526-a4cd-1b67526e9cd3
 
 - **Problem:** The company had an outdated site that did not show its real work. It needed a clear presentation and a direct path from a visitor to an estimate request, without accounts or a backend.
 - **Engineering:** Built with React 19, TypeScript, Vite, and Tailwind CSS, delivered on Cloudflare Workers. Includes typed photo galleries by service, client reviews with pause-on-interaction, keyboard-accessible controls, and a privacy-conscious setup with no click tracking or form data collection. Covered by unit and end-to-end tests with Playwright.
